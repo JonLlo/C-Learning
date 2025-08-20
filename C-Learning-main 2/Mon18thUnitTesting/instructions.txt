@@ -1,0 +1,9 @@
+step 1:
+dotnet new mstest -n UnitTesting
+//This creates a folder to tets in called UnitTesting
+step 2:
+Add your Calculator.cs and CalculatorTests.cs into this new folder.
+Calculator.cs → your logic
+CalculatorTests.cs → your MSTest class
+step 3:
+run dotnet test

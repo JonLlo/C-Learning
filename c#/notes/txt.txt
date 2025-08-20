@@ -1,0 +1,21 @@
+dotnet run
+dotnet new console -n folderNew
+dotnet --list-sdks
+ls 
+
+
+get, set
+get
+readonly
+
+
+visual paradigm
+
+
+Tuesday 12th:
+OOP:
+Encapsulation Inheritance, Polymorphism, Abstractiion
+
+If you inherit and interface you must make use of every method. Same with abstract classes.
+
+
