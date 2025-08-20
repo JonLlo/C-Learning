@@ -29,3 +29,12 @@ If you inherit and interface you must make use of every method. Same with abstra
 code:
 
 git push --set-upstream origin main
+
+
+sql HELP:
+
+$ docker run --name some-nginx -d -p 8080:80 some-content-nginx
+
+ docker run --cap-add SYS_PTRACE -e 
+ "ACCEPT_EULA=1" -e "MSSQL_SA_PASSWORD=P455Word" -p 1433:1433 --name sql-edge -d mcr.microsoft.com/azure-sql-edge
+ $ docker run --name some-nginx -d -p 8080:80 some-content-nginx
