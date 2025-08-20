@@ -1,0 +1,6 @@
+/Users/lucylettin/Desktop/JonC/19thProperBenchmarkingApp/obj/Debug/net9.0/19thProperBenchmarkingApp.csproj.AssemblyReference.cache
+/Users/lucylettin/Desktop/JonC/19thProperBenchmarkingApp/obj/Debug/net9.0/19thProperBenchmarkingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucylettin/Desktop/JonC/19thProperBenchmarkingApp/obj/Debug/net9.0/19thProperBenchmarkingApp.AssemblyInfoInputs.cache
+/Users/lucylettin/Desktop/JonC/19thProperBenchmarkingApp/obj/Debug/net9.0/19thProperBenchmarkingApp.AssemblyInfo.cs
+/Users/lucylettin/Desktop/JonC/19thProperBenchmarkingApp/obj/Debug/net9.0/19thProperBenchmarkingApp.csproj.CoreCompileInputs.cache
+/Users/lucylettin/Desktop/JonC/19thProperBenchmarkingApp/obj/Debug/net9.0/19thProperBenchmarkingApp.sourcelink.json

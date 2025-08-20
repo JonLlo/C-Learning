@@ -1,0 +1,22 @@
+How to make a website: "dotnet new mvc"
+
+then "code ."
+
+
+
+kernow coder: creating a website using visual studio 2022. use number 5
+
+non-commercial version of rider
+
+tutorials on jetbrains website.
+
+
+
+
+
+put javascript, css in wwwroot.
+
+but If i wanted to create a shop front with items in it I would create a new class (players.cs)
+
+create a controller with views using entity framwork.
+model: pets.

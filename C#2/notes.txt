@@ -1,0 +1,26 @@
+Trevor is making a video of how to make a website using Rider.
+
+dotnet run -c Release 
+
+
+https://benchmarkdotnet.org/
+
+dotnet run
+dotnet new console -n folderNew
+dotnet --list-sdks
+ls 
+
+
+get, set
+get
+readonly
+
+
+visual paradigm
+
+
+Tuesday 12th:
+OOP:
+Encapsulation Inheritance, Polymorphism, Abstractiion
+
+If you inherit and interface you must make use of every method. Same with abstract classes.
