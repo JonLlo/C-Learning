@@ -24,3 +24,8 @@ OOP:
 Encapsulation Inheritance, Polymorphism, Abstractiion
 
 If you inherit and interface you must make use of every method. Same with abstract classes.
+
+
+code:
+
+git push --set-upstream origin main
